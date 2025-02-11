@@ -1,4 +1,4 @@
-Sales Analytics Dashboard - Mobile Phones (India)
+**Sales Analytics Dashboard - Mobile Phones (India)**
 
 📊 Overview
 
